@@ -1,6 +1,6 @@
 # Home Alone
 
-![Home Alone](https://images.app.goo.gl/mDsSM7RtBS9h9UMX7)
+![Home Alone](https://m.media-amazon.com/images/M/MV5BMzFkM2YwOTQtYzk2Mi00N2VlLWE3NTItN2YwNDg1YmY0ZDNmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY1200_CR88,0,630,1200_AL_.jpg)
 
 ## Installation
 
