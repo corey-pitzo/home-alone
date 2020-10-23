@@ -1,6 +1,6 @@
 # Home Alone
 
-![Home Alone](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0099785%2F&psig=AOvVaw2jFJ_hPyNRxpxqX7MunrH9&ust=1603573526242000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPj1n4rPy-wCFQAAAAAdAAAAABAD)
+![Home Alone](https://images.app.goo.gl/mDsSM7RtBS9h9UMX7)
 
 ## Installation
 
